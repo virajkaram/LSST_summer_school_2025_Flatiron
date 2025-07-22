@@ -1,0 +1,229 @@
+{
+  "detections": [
+    {
+      "tid": "ztf",
+      "mjd": 59630.3682407001,
+      "candid": "1876368243015015008",
+      "fid": 2,
+      "pid": 1876368243015,
+      "diffmaglim": 20.180809,
+      "isdiffpos": 1,
+      "nid": 1876,
+      "distnr": 1.8627865,
+      "magpsf": 19.823425,
+      "magpsf_corr": null,
+      "magpsf_corr_ext": null,
+      "magap": 20.4217,
+      "magap_corr": null,
+      "sigmapsf": 0.18300949,
+      "sigmapsf_corr": null,
+      "sigmapsf_corr_ext": null,
+      "sigmagap": 0.5837,
+      "sigmagap_corr": null,
+      "ra": 204.8750447,
+      "dec": 39.0549269,
+      "rb": 0.7242857,
+      "rbversion": "t17_f5_c3",
+      "drb": 0.98542756,
+      "magapbig": 20.4924,
+      "sigmagapbig": 0.7917,
+      "rfid": 718120230,
+      "has_stamp": true,
+      "corrected": false,
+      "dubious": false,
+      "candid_alert": null,
+      "step_id_corr": "correction_1.0.6",
+      "phase": 0.0,
+      "parent_candid": null
+    },
+    {
+      "tid": "ztf",
+      "mjd": 59637.41067129979,
+      "candid": "1883410671915015004",
+      "fid": 2,
+      "pid": 1883410671915,
+      "diffmaglim": 20.21042,
+      "isdiffpos": 1,
+      "nid": 1883,
+      "distnr": 1.8596501,
+      "magpsf": 19.799765,
+      "magpsf_corr": null,
+      "magpsf_corr_ext": null,
+      "magap": 19.9791,
+      "magap_corr": null,
+      "sigmapsf": 0.15389533,
+      "sigmapsf_corr": null,
+      "sigmapsf_corr_ext": null,
+      "sigmagap": 0.292,
+      "sigmagap_corr": null,
+      "ra": 204.875069,
+      "dec": 39.0549918,
+      "rb": 0.89857143,
+      "rbversion": "t17_f5_c3",
+      "drb": 0.9998967,
+      "magapbig": 20.2808,
+      "sigmagapbig": 0.4831,
+      "rfid": 717120219,
+      "has_stamp": true,
+      "corrected": false,
+      "dubious": false,
+      "candid_alert": null,
+      "step_id_corr": "correction_1.0.6",
+      "phase": 0.0,
+      "parent_candid": null
+    },
+    {
+      "tid": "ztf",
+      "mjd": 59639.31047450006,
+      "candid": "1885310471915015002",
+      "fid": 2,
+      "pid": 1885310471915,
+      "diffmaglim": 19.916803,
+      "isdiffpos": 1,
+      "nid": 1885,
+      "distnr": 1.4493961,
+      "magpsf": 19.586836,
+      "magpsf_corr": null,
+      "magpsf_corr_ext": null,
+      "magap": 19.9801,
+      "magap_corr": null,
+      "sigmapsf": 0.1745764,
+      "sigmapsf_corr": null,
+      "sigmapsf_corr_ext": null,
+      "sigmagap": 0.3249,
+      "sigmagap_corr": null,
+      "ra": 204.8749881,
+      "dec": 39.0548946,
+      "rb": 0.74714285,
+      "rbversion": "t17_f5_c3",
+      "drb": 0.94571316,
+      "magapbig": 19.7632,
+      "sigmagapbig": 0.3362,
+      "rfid": 717120219,
+      "has_stamp": true,
+      "corrected": false,
+      "dubious": false,
+      "candid_alert": null,
+      "step_id_corr": "correction_1.0.6",
+      "phase": 0.0,
+      "parent_candid": null
+    }
+  ],
+  "non_detections": [
+    {
+      "tid": "ztf",
+      "mjd": 59623.31162039982,
+      "fid": 1,
+      "diffmaglim": 19.4999
+    },
+    {
+      "tid": "ztf",
+      "mjd": 59623.32201390015,
+      "fid": 1,
+      "diffmaglim": 19.7993
+    },
+    {
+      "tid": "ztf",
+      "mjd": 59623.37099540001,
+      "fid": 2,
+      "diffmaglim": 20.0959
+    },
+    {
+      "tid": "ztf",
+      "mjd": 59623.39190969989,
+      "fid": 2,
+      "diffmaglim": 20.0202
+    },
+    {
+      "tid": "ztf",
+      "mjd": 59625.358078700025,
+      "fid": 1,
+      "diffmaglim": 19.303
+    },
+    {
+      "tid": "ztf",
+      "mjd": 59625.39545139996,
+      "fid": 1,
+      "diffmaglim": 19.5727
+    },
+    {
+      "tid": "ztf",
+      "mjd": 59625.408449099865,
+      "fid": 2,
+      "diffmaglim": 19.7898
+    },
+    {
+      "tid": "ztf",
+      "mjd": 59625.42592590023,
+      "fid": 2,
+      "diffmaglim": 19.8918
+    },
+    {
+      "tid": "ztf",
+      "mjd": 59628.36689809989,
+      "fid": 1,
+      "diffmaglim": 19.4978
+    },
+    {
+      "tid": "ztf",
+      "mjd": 59628.38539349986,
+      "fid": 1,
+      "diffmaglim": 19.1966
+    },
+    {
+      "tid": "ztf",
+      "mjd": 59628.42762729991,
+      "fid": 2,
+      "diffmaglim": 19.4049
+    },
+    {
+      "tid": "ztf",
+      "mjd": 59628.450972199906,
+      "fid": 2,
+      "diffmaglim": 19.4705
+    },
+    {
+      "tid": "ztf",
+      "mjd": 59630.3677662001,
+      "fid": 2,
+      "diffmaglim": 20.1295
+    },
+    {
+      "tid": "ztf",
+      "mjd": 59630.40833330015,
+      "fid": 1,
+      "diffmaglim": 20.006
+    },
+    {
+      "tid": "ztf",
+      "mjd": 59630.408819399774,
+      "fid": 1,
+      "diffmaglim": 20.043
+    },
+    {
+      "tid": "ztf",
+      "mjd": 59637.360324100126,
+      "fid": 1,
+      "diffmaglim": 20.3212
+    },
+    {
+      "tid": "ztf",
+      "mjd": 59637.38795140013,
+      "fid": 1,
+      "diffmaglim": 20.4752
+    },
+    {
+      "tid": "ztf",
+      "mjd": 59637.41210650001,
+      "fid": 2,
+      "diffmaglim": 20.1456
+    },
+    {
+      "tid": "ztf",
+      "mjd": 59639.30322920019,
+      "fid": 2,
+      "diffmaglim": 19.8597
+    }
+  ],
+  "forced_detections": []
+}

@@ -1,0 +1,547 @@
+{
+  "detections": [
+    {
+      "tid": "ztf",
+      "mjd": 60122.27111109998,
+      "candid": "2368271116015015011",
+      "fid": 2,
+      "pid": 2368271116015,
+      "diffmaglim": 19.5534,
+      "isdiffpos": 1,
+      "nid": 2368,
+      "distnr": 2.28485,
+      "magpsf": 18.9477,
+      "magpsf_corr": null,
+      "magpsf_corr_ext": null,
+      "magap": 18.7741,
+      "magap_corr": null,
+      "sigmapsf": 0.153372,
+      "sigmapsf_corr": null,
+      "sigmapsf_corr_ext": null,
+      "sigmagap": 0.1414,
+      "sigmagap_corr": null,
+      "ra": 190.640652,
+      "dec": 51.2047132,
+      "rb": 0.447143,
+      "rbversion": "t17_f5_c3",
+      "drb": null,
+      "magapbig": 18.8077,
+      "sigmagapbig": 0.1855,
+      "rfid": null,
+      "has_stamp": false,
+      "corrected": false,
+      "dubious": false,
+      "candid_alert": null,
+      "step_id_corr": "1.2.0",
+      "phase": 0.0,
+      "parent_candid": 2368307296015015000
+    },
+    {
+      "tid": "ztf",
+      "mjd": 60122.30729170004,
+      "candid": "2368307296015015008",
+      "fid": 1,
+      "pid": 2368307296015,
+      "diffmaglim": 19.518877,
+      "isdiffpos": 1,
+      "nid": 2368,
+      "distnr": 2.7099283,
+      "magpsf": 18.872372,
+      "magpsf_corr": null,
+      "magpsf_corr_ext": null,
+      "magap": 18.9659,
+      "magap_corr": null,
+      "sigmapsf": 0.14581706,
+      "sigmapsf_corr": null,
+      "sigmapsf_corr_ext": null,
+      "sigmagap": 0.1753,
+      "sigmagap_corr": null,
+      "ra": 190.6406651,
+      "dec": 51.2047556,
+      "rb": 0.69285715,
+      "rbversion": "t17_f5_c3",
+      "drb": 0.9982232,
+      "magapbig": 19.0571,
+      "sigmagapbig": 0.2432,
+      "rfid": 756120160,
+      "has_stamp": true,
+      "corrected": false,
+      "dubious": false,
+      "candid_alert": null,
+      "step_id_corr": "1.2.0",
+      "phase": 0.0,
+      "parent_candid": null
+    },
+    {
+      "tid": "ztf",
+      "mjd": 60124.26163189998,
+      "candid": "2370261634815015002",
+      "fid": 1,
+      "pid": 2370261634815,
+      "diffmaglim": 19.538025,
+      "isdiffpos": 1,
+      "nid": 2370,
+      "distnr": 2.7448618,
+      "magpsf": 18.657337,
+      "magpsf_corr": null,
+      "magpsf_corr_ext": null,
+      "magap": 18.6654,
+      "magap_corr": null,
+      "sigmapsf": 0.12345105,
+      "sigmapsf_corr": null,
+      "sigmapsf_corr_ext": null,
+      "sigmagap": 0.159,
+      "sigmagap_corr": null,
+      "ra": 190.6405824,
+      "dec": 51.2047039,
+      "rb": 0.93,
+      "rbversion": "t17_f5_c3",
+      "drb": 0.99999917,
+      "magapbig": 18.7838,
+      "sigmagapbig": 0.2267,
+      "rfid": 755120148,
+      "has_stamp": true,
+      "corrected": false,
+      "dubious": false,
+      "candid_alert": null,
+      "step_id_corr": "1.2.0",
+      "phase": 0.0,
+      "parent_candid": null
+    },
+    {
+      "tid": "ztf",
+      "mjd": 60126.20432869997,
+      "candid": "2372204324815015002",
+      "fid": 1,
+      "pid": 2372204324815,
+      "diffmaglim": 19.482649,
+      "isdiffpos": 1,
+      "nid": 2372,
+      "distnr": 2.8329716,
+      "magpsf": 18.557295,
+      "magpsf_corr": null,
+      "magpsf_corr_ext": null,
+      "magap": 18.6058,
+      "magap_corr": null,
+      "sigmapsf": 0.11802511,
+      "sigmapsf_corr": null,
+      "sigmapsf_corr_ext": null,
+      "sigmagap": 0.1719,
+      "sigmagap_corr": null,
+      "ra": 190.6405399,
+      "dec": 51.2047169,
+      "rb": 0.9285714,
+      "rbversion": "t17_f5_c3",
+      "drb": 0.9999958,
+      "magapbig": 18.3901,
+      "sigmagapbig": 0.1806,
+      "rfid": 755120148,
+      "has_stamp": true,
+      "corrected": false,
+      "dubious": false,
+      "candid_alert": null,
+      "step_id_corr": "1.2.0",
+      "phase": 0.0,
+      "parent_candid": null
+    },
+    {
+      "tid": "ztf",
+      "mjd": 60133.278182900045,
+      "candid": "2379278184815015000",
+      "fid": 1,
+      "pid": 2379278184815,
+      "diffmaglim": 19.996826,
+      "isdiffpos": 1,
+      "nid": 2379,
+      "distnr": 2.8838117,
+      "magpsf": 18.493128,
+      "magpsf_corr": null,
+      "magpsf_corr_ext": null,
+      "magap": 18.5285,
+      "magap_corr": null,
+      "sigmapsf": 0.07843018,
+      "sigmapsf_corr": null,
+      "sigmapsf_corr_ext": null,
+      "sigmagap": 0.1045,
+      "sigmagap_corr": null,
+      "ra": 190.6405208,
+      "dec": 51.2046966,
+      "rb": 0.9514286,
+      "rbversion": "t17_f5_c3",
+      "drb": 0.99999964,
+      "magapbig": 18.53,
+      "sigmagapbig": 0.133,
+      "rfid": 755120148,
+      "has_stamp": true,
+      "corrected": false,
+      "dubious": false,
+      "candid_alert": null,
+      "step_id_corr": "1.2.0",
+      "phase": 0.0,
+      "parent_candid": null
+    },
+    {
+      "tid": "ztf",
+      "mjd": 60162.19872689992,
+      "candid": "2408198724815015003",
+      "fid": 1,
+      "pid": 2408198724815,
+      "diffmaglim": 19.83771,
+      "isdiffpos": 1,
+      "nid": 2408,
+      "distnr": 2.8075328,
+      "magpsf": 19.304373,
+      "magpsf_corr": null,
+      "magpsf_corr_ext": null,
+      "magap": 19.2822,
+      "magap_corr": null,
+      "sigmapsf": 0.18484806,
+      "sigmapsf_corr": null,
+      "sigmapsf_corr_ext": null,
+      "sigmagap": 0.2137,
+      "sigmagap_corr": null,
+      "ra": 190.6405474,
+      "dec": 51.2047345,
+      "rb": 0.8842857,
+      "rbversion": "t17_f5_c3",
+      "drb": 0.99999905,
+      "magapbig": 19.2101,
+      "sigmagapbig": 0.2554,
+      "rfid": 755120148,
+      "has_stamp": true,
+      "corrected": false,
+      "dubious": false,
+      "candid_alert": null,
+      "step_id_corr": "1.2.0",
+      "phase": 0.0,
+      "parent_candid": null
+    },
+    {
+      "tid": "ztf",
+      "mjd": 60162.19967589993,
+      "candid": "2408199676015015003",
+      "fid": 1,
+      "pid": 2408199676015,
+      "diffmaglim": 19.849596,
+      "isdiffpos": 1,
+      "nid": 2408,
+      "distnr": 2.9993258,
+      "magpsf": 18.982601,
+      "magpsf_corr": null,
+      "magpsf_corr_ext": null,
+      "magap": 19.0676,
+      "magap_corr": null,
+      "sigmapsf": 0.13240887,
+      "sigmapsf_corr": null,
+      "sigmapsf_corr_ext": null,
+      "sigmagap": 0.1542,
+      "sigmagap_corr": null,
+      "ra": 190.6405467,
+      "dec": 51.2046682,
+      "rb": 0.91714287,
+      "rbversion": "t17_f5_c3",
+      "drb": 0.9999849,
+      "magapbig": 19.2018,
+      "sigmagapbig": 0.2219,
+      "rfid": 756120160,
+      "has_stamp": true,
+      "corrected": false,
+      "dubious": false,
+      "candid_alert": null,
+      "step_id_corr": "1.2.0",
+      "phase": 0.0,
+      "parent_candid": null
+    }
+  ],
+  "non_detections": [
+    {
+      "tid": "ztf",
+      "mjd": 60092.33747689985,
+      "fid": 1,
+      "diffmaglim": 20.1432
+    },
+    {
+      "tid": "ztf",
+      "mjd": 60092.3680786998,
+      "fid": 1,
+      "diffmaglim": 20.2444
+    },
+    {
+      "tid": "ztf",
+      "mjd": 60097.21953700017,
+      "fid": 2,
+      "diffmaglim": 19.6325
+    },
+    {
+      "tid": "ztf",
+      "mjd": 60097.23954859981,
+      "fid": 2,
+      "diffmaglim": 19.8792
+    },
+    {
+      "tid": "ztf",
+      "mjd": 60099.18685190007,
+      "fid": 1,
+      "diffmaglim": 19.1621
+    },
+    {
+      "tid": "ztf",
+      "mjd": 60099.187326400075,
+      "fid": 1,
+      "diffmaglim": 19.1537
+    },
+    {
+      "tid": "ztf",
+      "mjd": 60099.35339119984,
+      "fid": 2,
+      "diffmaglim": 19.0999
+    },
+    {
+      "tid": "ztf",
+      "mjd": 60099.36229170021,
+      "fid": 2,
+      "diffmaglim": 19.0485
+    },
+    {
+      "tid": "ztf",
+      "mjd": 60101.19846059987,
+      "fid": 1,
+      "diffmaglim": 20.2404
+    },
+    {
+      "tid": "ztf",
+      "mjd": 60101.28156250017,
+      "fid": 1,
+      "diffmaglim": 19.6243
+    },
+    {
+      "tid": "ztf",
+      "mjd": 60101.33179400023,
+      "fid": 2,
+      "diffmaglim": 19.6493
+    },
+    {
+      "tid": "ztf",
+      "mjd": 60101.34078700002,
+      "fid": 2,
+      "diffmaglim": 19.3688
+    },
+    {
+      "tid": "ztf",
+      "mjd": 60103.20405089995,
+      "fid": 2,
+      "diffmaglim": 20.3857
+    },
+    {
+      "tid": "ztf",
+      "mjd": 60103.20452550007,
+      "fid": 2,
+      "diffmaglim": 20.575
+    },
+    {
+      "tid": "ztf",
+      "mjd": 60103.23959490005,
+      "fid": 1,
+      "diffmaglim": 20.5731
+    },
+    {
+      "tid": "ztf",
+      "mjd": 60105.21755790012,
+      "fid": 1,
+      "diffmaglim": 20.7675
+    },
+    {
+      "tid": "ztf",
+      "mjd": 60105.21853009984,
+      "fid": 1,
+      "diffmaglim": 20.7421
+    },
+    {
+      "tid": "ztf",
+      "mjd": 60105.2399420999,
+      "fid": 2,
+      "diffmaglim": 20.4898
+    },
+    {
+      "tid": "ztf",
+      "mjd": 60105.260266200174,
+      "fid": 2,
+      "diffmaglim": 20.5065
+    },
+    {
+      "tid": "ztf",
+      "mjd": 60109.19871529983,
+      "fid": 2,
+      "diffmaglim": 20.5552
+    },
+    {
+      "tid": "ztf",
+      "mjd": 60109.20115739992,
+      "fid": 2,
+      "diffmaglim": 20.1718
+    },
+    {
+      "tid": "ztf",
+      "mjd": 60109.22312500002,
+      "fid": 1,
+      "diffmaglim": 20.6271
+    },
+    {
+      "tid": "ztf",
+      "mjd": 60109.224097200204,
+      "fid": 1,
+      "diffmaglim": 20.5374
+    },
+    {
+      "tid": "ztf",
+      "mjd": 60111.23776620021,
+      "fid": 1,
+      "diffmaglim": 20.796
+    },
+    {
+      "tid": "ztf",
+      "mjd": 60111.240393499844,
+      "fid": 1,
+      "diffmaglim": 20.6159
+    },
+    {
+      "tid": "ztf",
+      "mjd": 60113.285451400094,
+      "fid": 1,
+      "diffmaglim": 20.6496
+    },
+    {
+      "tid": "ztf",
+      "mjd": 60114.24302079994,
+      "fid": 2,
+      "diffmaglim": 20.3342
+    },
+    {
+      "tid": "ztf",
+      "mjd": 60114.25802080007,
+      "fid": 1,
+      "diffmaglim": 20.3116
+    },
+    {
+      "tid": "ztf",
+      "mjd": 60116.19891199982,
+      "fid": 1,
+      "diffmaglim": 20.3948
+    },
+    {
+      "tid": "ztf",
+      "mjd": 60116.19938659994,
+      "fid": 1,
+      "diffmaglim": 20.667
+    },
+    {
+      "tid": "ztf",
+      "mjd": 60116.219768499956,
+      "fid": 2,
+      "diffmaglim": 20.3906
+    },
+    {
+      "tid": "ztf",
+      "mjd": 60116.244629600085,
+      "fid": 2,
+      "diffmaglim": 20.5202
+    },
+    {
+      "tid": "ztf",
+      "mjd": 60118.19197920011,
+      "fid": 2,
+      "diffmaglim": 19.9755
+    },
+    {
+      "tid": "ztf",
+      "mjd": 60118.236817100085,
+      "fid": 1,
+      "diffmaglim": 20.0012
+    },
+    {
+      "tid": "ztf",
+      "mjd": 60120.21369209979,
+      "fid": 2,
+      "diffmaglim": 20.3288
+    },
+    {
+      "tid": "ztf",
+      "mjd": 60124.22453700006,
+      "fid": 2,
+      "diffmaglim": 19.9584
+    },
+    {
+      "tid": "ztf",
+      "mjd": 60124.22501160018,
+      "fid": 2,
+      "diffmaglim": 19.7971
+    },
+    {
+      "tid": "ztf",
+      "mjd": 60124.26353010023,
+      "fid": 1,
+      "diffmaglim": 19.7798
+    },
+    {
+      "tid": "ztf",
+      "mjd": 60126.24418980023,
+      "fid": 2,
+      "diffmaglim": 19.537
+    },
+    {
+      "tid": "ztf",
+      "mjd": 60126.244664399885,
+      "fid": 2,
+      "diffmaglim": 19.4938
+    },
+    {
+      "tid": "ztf",
+      "mjd": 60128.28872689977,
+      "fid": 1,
+      "diffmaglim": 18.8862
+    },
+    {
+      "tid": "ztf",
+      "mjd": 60128.289189800154,
+      "fid": 1,
+      "diffmaglim": 18.8282
+    },
+    {
+      "tid": "ztf",
+      "mjd": 60128.29731479986,
+      "fid": 2,
+      "diffmaglim": 19.1376
+    },
+    {
+      "tid": "ztf",
+      "mjd": 60128.29778939998,
+      "fid": 2,
+      "diffmaglim": 19.1786
+    },
+    {
+      "tid": "ztf",
+      "mjd": 60133.19945599977,
+      "fid": 2,
+      "diffmaglim": 20.2731
+    },
+    {
+      "tid": "ztf",
+      "mjd": 60133.19993059989,
+      "fid": 2,
+      "diffmaglim": 20.2757
+    },
+    {
+      "tid": "ztf",
+      "mjd": 60133.277708299924,
+      "fid": 1,
+      "diffmaglim": 19.9509
+    },
+    {
+      "tid": "ztf",
+      "mjd": 60162.1982522998,
+      "fid": 1,
+      "diffmaglim": 19.9602
+    }
+  ],
+  "forced_detections": []
+}
